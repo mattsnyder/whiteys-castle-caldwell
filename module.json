@@ -1,0 +1,89 @@
+{
+  "id": "whiteys-castle-caldwell",
+  "title": "Whitey's Castle Caldwell",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "description": "<p>A ShadowDark adaption of the Castle Caldwell module from D&amp;D. Further explores The Choir.</p>",
+  "authors": [
+    {
+      "name": "Matt Snyder",
+      "email": "matt@cranialpulse.com",
+      "discord": "hulkeatsbacon",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "the-gloaming",
+      "label": "The Gloaming",
+      "path": "packs/the-gloaming",
+      "type": "Scene",
+      "system": "shadowdark",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "clifton-caldwell",
+      "label": "Clifton Caldwell",
+      "path": "packs/clifton-caldwell",
+      "type": "Actor",
+      "system": "shadowdark",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "castle-caldwell-level-1",
+      "label": "Castle Caldwell Level 1",
+      "path": "packs/castle-caldwell-level-1",
+      "type": "Scene",
+      "system": "shadowdark",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "castle-caldwell-level-2",
+      "label": "Castle Caldwell Level 2",
+      "path": "packs/castle-caldwell-level-2",
+      "type": "Scene",
+      "system": "shadowdark",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "castle-caldwell-adventure",
+      "label": "Castle Caldwell",
+      "path": "packs/castle-caldwell-adventure",
+      "type": "Adventure",
+      "system": "shadowdark",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "castle-level-1-actors",
+      "label": "Castle Level 1 Actors",
+      "path": "packs/castle-level-1-actors",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "shadowdark"
+    }
+  ]
+}
