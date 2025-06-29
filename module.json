@@ -79,6 +79,28 @@
       "label": "Castle Level 1 Actors",
       "path": "packs/castle-level-1-actors",
       "type": "Actor",
+      "system": "shadowdark",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "castle-level-1-journal",
+      "label": "Castle Level 1 Journal",
+      "path": "packs/castle-level-1-journal",
+      "type": "JournalEntry",
+      "system": "shadowdark",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "castle-level-1-items",
+      "label": "Castle Level 1 Items",
+      "path": "packs/castle-level-1-items",
+      "type": "Item",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"

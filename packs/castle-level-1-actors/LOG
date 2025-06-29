@@ -1,5 +1,3 @@
-2025/06/28-18:22:15.976745 313763000 Delete type=3 #1
-2025/06/28-18:45:36.211461 30d6df000 Level-0 table #5: started
-2025/06/28-18:45:36.211769 30d6df000 Level-0 table #5: 488 bytes OK
-2025/06/28-18:45:36.211933 30d6df000 Delete type=0 #3
-2025/06/28-18:45:36.213133 30d6df000 Manual compaction at level-0 from '!folders!vJ2BgNrAR9Xvkwun' @ 72057594037927935 : 1 .. '!folders!vJ2BgNrAR9Xvkwun' @ 0 : 0; will stop at (end)
+2025/06/28-19:52:48.700427 3138dd000 Recovering log #12
+2025/06/28-19:52:48.701080 3138dd000 Delete type=0 #12
+2025/06/28-19:52:48.701144 3138dd000 Delete type=3 #10
