@@ -3,7 +3,7 @@
   "title": "Whitey's Castle Caldwell",
   "version": "1.0.0",
   "compatibility": {
-    "minimum": "13",
+    "minimum": "12",
     "verified": "13"
   },
   "description": "A ShadowDark adaption of the Castle Caldwell module from D&amp;D. Further explores The Choir.",
