@@ -1,8 +1,8 @@
-2025/06/28-19:37:40.479104 3138dd000 Recovering log #24
-2025/06/28-19:37:40.479795 3138dd000 Delete type=3 #22
-2025/06/28-19:37:40.479889 3138dd000 Delete type=0 #24
-2025/06/28-19:50:45.414754 30c853000 Level-0 table #29: started
-2025/06/28-19:50:45.414845 30c853000 Level-0 table #29: 0 bytes OK
-2025/06/28-19:50:45.415064 30c853000 Delete type=0 #27
-2025/06/28-19:50:45.416269 30c853000 Manual compaction at level-0 from '!actors!gviAAplrmvsAuENl' @ 72057594037927935 : 1 .. '!actors!gviAAplrmvsAuENl' @ 0 : 0; will stop at (end)
-2025/06/28-19:50:45.416318 30c853000 Manual compaction at level-1 from '!actors!gviAAplrmvsAuENl' @ 72057594037927935 : 1 .. '!actors!gviAAplrmvsAuENl' @ 0 : 0; will stop at (end)
+2025/06/28-19:52:48.461594 3128d7000 Recovering log #28
+2025/06/28-19:52:48.462436 3128d7000 Delete type=0 #28
+2025/06/28-19:52:48.462512 3128d7000 Delete type=3 #26
+2025/06/29-16:55:12.119758 30c853000 Level-0 table #33: started
+2025/06/29-16:55:12.119811 30c853000 Level-0 table #33: 0 bytes OK
+2025/06/29-16:55:12.119975 30c853000 Delete type=0 #31
+2025/06/29-16:55:12.120907 30c853000 Manual compaction at level-0 from '!actors!gviAAplrmvsAuENl' @ 72057594037927935 : 1 .. '!actors!gviAAplrmvsAuENl' @ 0 : 0; will stop at (end)
+2025/06/29-16:55:12.120962 30c853000 Manual compaction at level-1 from '!actors!gviAAplrmvsAuENl' @ 72057594037927935 : 1 .. '!actors!gviAAplrmvsAuENl' @ 0 : 0; will stop at (end)
